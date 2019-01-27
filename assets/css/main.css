@@ -3109,5 +3109,8 @@ input, select, textarea {
 					.carousel article .image {
 						margin-bottom: 2em;
 					}
+		.nav {
+			text-align:left;
+		}
 
 	}
